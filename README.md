@@ -1,5 +1,5 @@
  Olá, Mundo! 
- Primeiro repositório do curso Git e GitHub.
+ Esse é meu primeiro repositório do curso Git e GitHub, do Curso em Vídeo.
 
 Esse repositório foi criado durante uma aula ao vivo, com o intuito de colocar em prática o que estamos aprendendo, de forma fácil e rápida, por meio do GitHub Desktop.
 
@@ -10,4 +10,4 @@ Algumas dicas aprendidas na aula:
 * Podemos clicar no h1 e logo em seguida em enter para ter em ambos os lados apareça, a mesma coisa acontece quando clicamos no p e na palavra lorem;
 * Precisamos criar uma pasta para depois adicionar uma página para que possamos desenvolver nosso projeto.
 
-Esse é um pequeno resumo para próximas consultas e espero ajudar vocês, imensa gratidão.
+Esse é um pequeno resumo para próximas consultas e espero ajudar vocês e fiquem a vontade para me dar dicas, imensa gratidão.
