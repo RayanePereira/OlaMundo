@@ -1,4 +1,4 @@
-**Olá, Mundo!**
+_**Olá, Mundo!**_
 
 Esse é meu primeiro repositório do curso Git e GitHub, feito por meio do Curso em Vídeo.
 
