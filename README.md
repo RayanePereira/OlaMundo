@@ -1,6 +1,6 @@
 _**Olá, Mundo! Como estão?**_
 
-Esse é meu primeiro repositório do curso Git e GitHub, feito por meio do Curso em Vídeo.
+Esse é meu primeiro repositório do curso Git e GitHub, feito por meio do Curso em Vídeo sobre Git e GitHub.
 
 Esse repositório foi criado durante uma aula ao vivo, com o intuito de colocar em prática o que estamos aprendendo, de forma fácil e rápida, por meio do GitHub Desktop.
 
