@@ -1,4 +1,4 @@
-_**Olá, Mundo! Como  vocês estão?**_
+_**Olá, Mundo! Como vocês estão?**_
 
 Esse é meu primeiro repositório do curso Git e GitHub, feito por meio do Curso em Vídeo sobre Git e GitHub.
 
